@@ -1,0 +1,10 @@
+requests
+tabulate
+
+
+
+-------------------
+
+
+After running the python code, if it runs smoothly, it means everything is ok. But if its giving error and asks for any module, then simply insatll that 
+module in linux terminel or windows command prompt and then try again.
